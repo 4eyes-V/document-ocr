@@ -1,0 +1,26 @@
+# Файлы окружения
+.env
+.env.docker
+
+# Папка с документами
+documents/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Docker-специфичные файлы
+.dockerignore
+
+# IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
